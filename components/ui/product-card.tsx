@@ -55,7 +55,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ data }) => {
           quality={95}
         />
         <div
-          className="opacity-100 transition absolute
+          className="transition absolute
         w-full px-6 bottom-5 md:opacity-0 md:group-hover:opacity-100"
         >
           <div className="flex gap-x-6 justify-center">
